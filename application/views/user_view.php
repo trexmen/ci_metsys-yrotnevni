@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tarkiman - CI</title>
+	<title>Trexmen - CI</title>
 </head>
 <body>
 	<h1>Tabel User</h1>
