@@ -63,7 +63,7 @@
                       <li><!-- start message -->
                         <a href="#">
                           <div class="pull-left">
-                            <img src="assets/dist/img/tarkiman.jpg" class="img-circle" alt="User Image"/>
+                            <img src="assets/dist/img/trexmen.jpg" class="img-circle" alt="User Image"/>
                           </div>
                           <h4>
                             Support Team
@@ -78,7 +78,7 @@
                             <img src="assets/dist/img/user3-128x128.jpg" class="img-circle" alt="user image"/>
                           </div>
                           <h4>
-                            Tarkiman Design Team
+                            Trexmen Design Team
                             <small><i class="fa fa-clock-o"></i> 2 hours</small>
                           </h4>
                           <p>Why not buy a new awesome theme?</p>
@@ -240,16 +240,16 @@
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  <img src="assets/dist/img/tarkiman.jpg" class="user-image" alt="User Image"/>
-                  <span class="hidden-xs">Tarkiman</span>
+                  <img src="assets/dist/img/Trexmen.jpg" class="user-image" alt="User Image"/>
+                  <span class="hidden-xs">Trexmen</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
-                    <img src="assets/dist/img/tarkiman.jpg" class="img-circle" alt="User Image" />
+                    <img src="assets/dist/img/Trexmen.jpg" class="img-circle" alt="User Image" />
                     <p>
-                      Tarkiman - Software Engineer
-                      <small>tarkiman.zone@gmail.com</small>
+                      Trexmen - Software Engineer
+                      <small>Trexmen.zone@gmail.com</small>
                     </p>
                   </li>
                   <!-- Menu Body -->
@@ -291,10 +291,10 @@
           <!-- Sidebar user panel -->
           <div class="user-panel">
             <div class="pull-left image">
-              <img src="assets/dist/img/tarkiman.jpg" class="img-circle" alt="User Image" />
+              <img src="assets/dist/img/Trexmen.jpg" class="img-circle" alt="User Image" />
             </div>
             <div class="pull-left info">
-              <p>Tarkiman</p>
+              <p>Trexmen</p>
 
               <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
             </div>
@@ -701,7 +701,7 @@
                           </div><!-- /.direct-chat-info -->
                           <img class="direct-chat-img" src="dist/img/user1-128x128.jpg" alt="message user image" /><!-- /.direct-chat-img -->
                           <div class="direct-chat-text">
-                            Working with Tarkiman on a great new app! Wanna join?
+                            Working with Trexmen on a great new app! Wanna join?
                           </div><!-- /.direct-chat-text -->
                         </div><!-- /.direct-chat-msg -->
 
@@ -845,7 +845,7 @@
                           <span class="users-list-date">12 Jan</span>
                         </li>
                         <li>
-                          <img src="dist/img/tarkiman.jpg" alt="User Image"/>
+                          <img src="dist/img/Trexmen.jpg" alt="User Image"/>
                           <a class="users-list-name" href="#">Alexander</a>
                           <span class="users-list-date">13 Jan</span>
                         </li>
@@ -1108,7 +1108,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 1.0
         </div>
-        <strong>Copyright &copy; 2015 <a href="http://tarkiman.com">Tarkiman</a>.</strong>
+        <strong>Copyright &copy; 2015 <a href="http://Trexmen.com">Trexmen</a>.</strong>
       </footer>
 
       <!-- Control Sidebar -->
